@@ -3,17 +3,18 @@ bac2012
 
 The results of BAC 2012. 
 
-This data is freely available on the internet you will not commit any crimes in downloading and working
+This data is freely available on the internet and you will not commit any crimes by downloading and working
 with it.
 
 The BAC or Bacalaureat is the final high-school exam in Romania. Each student is
 expected to pass this exam after 4 years of high-school.
+
 The exam has two phases:
   * Phase 1: The actual exam(s).
   * Phase 2: People that failed Phase 1 get a second chance to get their BAC Degree.
   
 I wrote a small Python crawler to extract the data from a 3rd party webpage. I did not download
-the Phase 2 results. The results were output in CSV format (pipe '|' separated, CRLF EOL delimited), there is no
+the Phase 2 results. The results are stored in CSV format (pipe '|' separated, CRLF EOL delimited), there is no
 text qualifier.
 
 The CSV file header is:
