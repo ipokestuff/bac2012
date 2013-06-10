@@ -26,4 +26,5 @@ Have fun!
 
 Known issues:
   * A line will repeat itself throughout the CSV file. I have not yet removed it. It's the HTML table header.
+  
   nr.crt.|nume, initialatatalui,|pozitiain|pozitiain|unitatea deinvatamant|promotieanterioara|formainvatamant|specializare|limba si literatura romana|limba si literatura materna|limba modernastudiata -|nota|disciplina obligatorie aprofilului - scris|disciplina la alegere -scris|competentedigitale|media|rezultatulfinal|competente|scris|contestatie|notafinala|competente|scris|contestatie|notafinala|nota|contestatie|notafinala|nota|contestatie|notafinala
